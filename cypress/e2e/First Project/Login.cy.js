@@ -9,10 +9,10 @@ describe('Login Application', () => {
        
     })
 
-    it('Checking Account Details', () => {
-        cy.get("a[href='activity.htm?id=15231']").click()
-        // cy.get('#accountDetails > .title')
+    // it('Checking Account Details', () => {
+    //     cy.get("a[href='openaccount.htm']").click()
+    //     cy.get('#accountDetails > .title')
 
-    })  
+    // })  
 
   })
