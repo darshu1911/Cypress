@@ -11,5 +11,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^13.13.1"
+  },
+  "dependencies": {
+    "Cypress": "npm:cypress@^13.13.2"
   }
 }
